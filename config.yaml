@@ -1,5 +1,5 @@
 title: Gluten
-author: "Johannes Fürmann"
+baseURL: https://getgluten.github.io/
 
 timeZone: Europe/Berlin
 defaultContentLanguage: en
