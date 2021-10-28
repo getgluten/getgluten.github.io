@@ -1,0 +1,21 @@
+title: Gluten
+author: "Johannes Fürmann"
+
+timeZone: Europe/Berlin
+defaultContentLanguage: en
+
+theme: hugo-hero-theme
+
+params:
+  tagline: "An Open Source Cloud-Native Specification-Fitst API Gateway."
+
+  github: "https://github.com/getgluten/gluten"
+
+menu:
+  main:
+    - name: features
+      url: "/features/"
+      weight: 1
+    - name: get gluten
+      url: "/get/"
+      weight: 2
